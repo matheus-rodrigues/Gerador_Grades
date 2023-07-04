@@ -1,0 +1,36 @@
+Disciplina,Pré-Requisitos,Dependentes,Termo,Segunda,Terça,Quarta,Quinta,Sexta
+Cálculo em Uma Variável,-,5,1,-,15h30,-,15h30,15h30
+Ciência Tecnologia e Sociedade,-,0,1,15h30,-,15h30,-,-
+Lógica de Programação,-,0,1,-,-,13h30,-,13h30
+Química Geral,-,9,1,,-,-,"13h30, 15h30",-
+Fundamentos da Biologia Moderna,-,0,1,-,15h30,-,15h30,-
+Fenômenos Mecânicos,-,3,2,-,08h00/10h00,-,08h00/10h00,-
+CIência Tecnologia Sociedade e Ambiente,-,0,2,-,-,10h00/15h30,-,08h00/10h00
+"Metodologia da Pesquisa e Comunicação Científica
+",-,0,2,13h30/15h30,-,-,-,-
+Séries e Equações Diferenciais Ordinárias,Cálculo em Uma Variável,1,2,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Química Geral Experimental,-,0,2,-,-,08h00/10h00,-,13h30/15h30
+Introdução à Engenharia de Materiais,-,0,2,13h30,-,-,-,-
+Geometria Analítica,-,5,2,10h00/13h30/15h30,-,10h00/13h30/15h30,-,-
+Química Orgânica,Química Geral,0,3,15h30,-,15h30,-,-
+Química Inorgânica,Química Geral,0,3,-,13h30/15h30,-,13h30/15h30,-
+Fenômenos Mecânicos Experimental,-,0,3,-,08h00/10h00,-,08h00/10h00,-
+Tecnologia e Meio Ambiente,-,0,3,-,15h30,-,-,-
+Cálculo em Várias Variáveis,"Cálculo em Uma Variável, Geometria Analítica",0,3,13h30/15h30,-,13h30/15h30,-,-
+Probabilidade e Estatística,Cálculo em Uma Variável,0,3,08h00/10h00,-,08h00/10h00,-,-
+Fenômenos Eletromagnéticos,-,0,4,-,08h00/10h00/15h30,-,08h00/10h00/15h30,-
+Mecânica Geral,"Fenômenos Mecânicos, Geometria Analítica",2,4,-,15h30,-,15h30,-
+Ciência e Tecnologia dos Materiais,Química Geral,5,4,-,08h00,-,-,08h00
+Cálculo Numérico,"Cálculo em Uma Variável, Geometria Analítica",0,4,08h00/10h00,-,08h00/10h00,-,-
+Resistência dos Materiais,Mecânica Geral,0,5,-,-,08h00,-,08h00
+Fenômenos do Transporte,"Mecânica Geral, Séries e Equações Diferenciais Ordinárias",0,5,10h00/13h30,-,-,-,-
+Fenômenos Eletromagnéticos Experimental,-,0,5,-,08h00/10h00,-,-,-
+Materiais Poliméricos,Ciência e Tecnologia dos Materiais,0,5,-,13h30,-,-,-
+Materiais Metálicos,Ciência e Tecnologia dos Materiais,0,5,-,10h00,-,10h00,-
+Materiais Cerâmicos,Ciência e Tecnologia dos Materiais,0,5,15h30,-,15h30,-,-
+Teorias Administrativas,-,0,6,13h30/15h30,-,-,-,-
+Circuitos Elétricos I,-,0,6,13h30/15h30,-,13h30/15h30,-,-
+Desenho Técnico Básico,-,0,6,15h30,-,-,-,-
+Termodinâmica dos Sólidos,Química Geral,0,6,-,10h00,-,-,10h00
+Ensaio de Materiais,Ciência e Tecnologia dos Materiais,0,6,-,-,-,"13h30,15h30",-
+Seleção de Materiais,Ciência e Tecnologia dos Materiais,0,6,-,15h30,-,-,-

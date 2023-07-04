@@ -1,0 +1,30 @@
+Disciplina,Pré-Requisitos,Dependentes,Termo,Segunda,Terça,Quarta,Quinta,Sexta
+Cálculo em Uma Variável,-,11,1,-,15h30,-,15h30,15h30
+Ciência Tecnologia e Sociedade,-,0,1,15h30,-,15h30,-,-
+Lógica de Programação,-,4,1,-,-,13h30,-,13h30
+Química Geral,-,0,1,,-,-,"13h30, 15h30",-
+Fundamentos da Biologia Moderna,-,0,1,-,15h30,-,15h30,-
+Fenômenos Mecânicos,-,0,2,-,08h00/10h00,-,08h00/10h00,-
+CIência Tecnologia Sociedade e Ambiente,-,0,2,-,-,10h00/15h30,-,08h00/10h00
+Séries e Equações Diferenciais Ordinárias,Cálculo Em Uma Variável,2,2,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Matemática Discreta,-,2,2,13h30/15h30,-,13h30/15h30,-,-
+Algoritmos e Estruturas de Dados I,Lógica de Programação,2,2,-,13h30,-,13h30,-
+Geometria Analítica,-,9,2,10h00/13h30/15h30,-,10h00/13h30/15h30,-,-
+Álgebra Linear,Geometria Analítica,2,3,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Algoritmos e Estruturas de Dados II,Algoritmos e Estruturas de Dados I,1,3,13h30,-,13h30,-,-
+Fenômenos do Contínuo,-,0,3,-,08h00/10h00,-,08h00/10h00,-
+Cálculo em Várias Variáveis,"Cálculo Em Uma Variável, Geometria Analítica",2,3,13h30/15h30,-,13h30/15h30,-,-
+Probabilidade e Estatística,Cálculo Em Uma Variável,2,3,08h00/10h00,-,08h00/10h00,-,-
+Álgebra Linear II,Álgebra Linear,0,4,-,13h30,-,13h30,-
+Projetos e Análise de Algoritmos,"Matemática Discreta, Algoritmos e Estruturas de Dados II",0,4,-,15h30,-,15h30,-
+Probabilidade,"Cálculo em Várias Variáveis, Probabilidade e Estatística",0,4,-,13h30,-,13h30,-
+Funções Analíticas,"Séries e Equações Diferenciais Ordinárias, Cálculo em Várias Variáveis",0,4,-,10h00,-,10h00,-
+Cálculo Numérico,"Cálculo em Uma Variável, Geometria Analítica",1,4,08h00/10h00,-,08h00/10h00,-,-
+Análise Real I,Cálculo em Uma Variável,1,5,13h30,-,13h30,-,
+Álgebra Linear Computacional,Cálculo Numérico,0,5,-,10h00,-,10h00,-
+Otimização Linear,"Lógica de Programação, Geometria Analítica",0,5,-,15h30,-,15h30,-
+Teoria dos Números e Criptografia,Matemática Discreta,0,5,na,na,na,na,na
+Análise Real II,Análise Real I,0,6,-,08h00,-,08h00,-
+Elementos de Álgebra,-,0,6,-,-,"10h00,15h30",-,-
+Equações Diferenciais Ordinárias,"Séries e Equações Diferenciais Ordinárias, Álgebra Linear",0,6,-,13h30,-,13h30,-
+Inferência e Análise de Regressão,Probabilidade e Estatística,0,6,-,15h30,-,15h30,-

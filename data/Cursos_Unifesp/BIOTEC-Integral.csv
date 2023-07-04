@@ -1,0 +1,37 @@
+Disciplina,Pré-Requisitos,Dependentes,Termo,Segunda,Terça,Quarta,Quinta,Sexta
+Cálculo em Uma Variável,-,3,1,-,15h30,-,15h30,15h30
+Ciência Tecnologia e Sociedade,-,0,1,15h30,-,15h30,-,-
+Lógica de Programação,-,1,1,-,-,13h30,-,13h30
+Química Geral,-,2,1,,-,-,"13h30, 15h30",-
+Fundamentos da Biologia Moderna,-,11,1,-,15h30,-,15h30,-
+Fenômenos Mecânicos,-,5,2,-,08h00/10h00,-,08h00/10h00,-
+CIência Tecnologia Sociedade e Ambiente,-,0,2,-,-,10h00/15h30,-,08h00/10h00
+Bioquímica I,Fundamentos da Biologia Moderna,4,2,10h00,-,-,-,15h30
+Biologia Molecular do Gene,Fundamentos da Biologia Moderna,1,2,-,-,-,-,"08h00, 10h00"
+Matemática Geral,Cálculo em Uma Variável,4,2,08h00,-,08h00,-,-
+Microbiologia Geral,-,5,2,-,15h30,-,13h30,-
+Introdução à Biotecnologia,-,0,2,-,13h30,-,-,-
+Física Geral,Fenômenos Mecânicos,4,3,-,15h30,-,15h30,-
+Química Orgânica,-,0,3,15h30,-,15h30,-,-
+Laboratório de Bioquímica,"Bioquímica I, Biologia Molecular do Gene",0,3,-,-,-,-,13h30/15h30
+Biologia Molecular da Célula,Fundamentos da Biologia Moderna,3,3,-,-,10h00,-,10h00
+Microbiologia Aplicada e Industrial,Microbiologia Geral,0,3,13h30,-,13h30,-,-
+Biologia do Desenvolvimento,Biologia Molecular do Gene,0,3,-,08h00,-,-,-
+Fisiologia I,-,1,3,-,13h30/15h30,-,13h30/15h30,-
+Termodinâmica Química,"Química Geral, Cálculo em Várias Variáveis",0,4,-,15h30,-,15h30,-
+Bioquímica II,Bioquímica II,0,4,-,10h00,-,-,13h30
+Laboratório de Biologia Molecular e Celular,Biologia Molecular da Célula,0,4,-,-,-,"10h00, 13h30",-
+Fisiologia II,Fisiologia I,0,4,10h00/13h30,-,10h00/13h30,-,-
+Fundamentos de Engenharia Bioquímica,"Matemática Geral, Física Geral",3,4,-,08h00,-,08h00,-
+Biologia Geral,-,0,4,15h30,-,15h30,-,-
+Laboratório de Microbiologia,Microbiologia Geral,0,4,-,13h30,-,-,-
+Bioquímica Analítica,Bioquímica I,1,5,-,13h30,-,13h30,-
+Introdução à Ecologia,-,0,5,,15h30,-,15h30,-
+Introdução à Bioinformática,"Lógica de Programação, Biologia Molecular da Célula",0,5,-,-,10h00,-,10h00
+Engenharia Bioquímica I,"Microbiologia Geral, Fundamentos da Engenharia Bioquímica",2,5,"08h00, 10h00",-,-,-,-
+Empreendedorismo em Biotecnologia,-,0,5,-,-,-,13h30,-
+Bioética e Biossegurança,-,0,5,-,10h00,-,-,-
+Laboratório de Bioquímica Analítica,Bioquímica Analítica,0,6,-,-,-,-,"08h00, 10h00"
+Introdução à Biologia de Sistemas,Biologia da Molécula da Célula,0,6,-,13h30,-,-,13h30
+Laboratório de Engenharia Bioquímica,Engenharia Bioquímica I,0,6,"08h00, 10h00",-,-,-,-
+Engenharia Bioquímica II,Engenharia Bioquímica I,0,6,-,10h00,-,10h00,-

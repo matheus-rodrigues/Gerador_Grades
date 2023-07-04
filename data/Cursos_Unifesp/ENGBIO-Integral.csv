@@ -1,0 +1,38 @@
+Disciplina,Pré-Requisitos,Dependentes,Termo,Segunda,Terça,Quarta,Quinta,Sexta
+Cálculo em Uma Variável,-,7,1,-,15h30,-,15h30,15h30
+Ciência Tecnologia e Sociedade,-,0,1,15h30,-,15h30,-,-
+Lógica de Programação,-,1,1,-,-,13h30,-,13h30
+Química Geral,-,0,1,-,-,-,"13h30, 15h30",-
+Fundamentos da Biologia Moderna,-,0,1,-,15h30,-,15h30,-
+Fenômenos Mecânicos,-,2,2,-,08h00/10h00,-,08h00/10h00,-
+CIência Tecnologia Sociedade e Ambiente,-,0,2,-,-,10h00/15h30,-,08h00/10h00
+Metodologia da Pesquisa e Comunicação Científica,-,0,2,13h30/15h30,-,-,-,-
+Séries e Equações Diferenciais Ordinárias,Cálculo em Uma Variável,3,2,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Química Geral Experimental,-,0,2,-,-,08h00/10h00,-,13h30/15h30
+Anatomia,-,0,2,15h30,-,-,-,-
+Geometria Analítica,-,5,2,10h00/13h30/15h30,-,10h00/13h30/15h30,-,-
+Algoritmos em Bioinformática,Lógica de Programação,1,3,13h30/15h30,-,-,-,-
+Álgebra Linear, Geometria Analítica,0,3,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Fenômenos Mecânicos Experimental,-,0,3,-,08h00/10h00,-,08h00/10h00,-
+Fenômenos do Contínuo,-,0,3,-,08h00/10h00,-,08h00/10h00,-
+Cálculo em Várias Variáveis,"Cálculo em Uma Variável, Geometria Analítica",0,3,13h30/15h30,-,13h30/15h30,-,-
+Fisiologia I,-,1,3,-,13h30/15h30,-,13h30/15h30,-
+Fenômenos do Contínuo Experimental ,-,0,4,-,-,-,-,15h30
+Circuitos Elétricos I,-,5,4,13h30/15h30,-,13h30/15h30,-,-
+Fenômenos Eletromagnéticos,-,2,4,-,08h00/10h00/15h30,-,08h00/10h00/15h30,-
+Fisiologia II,Fisiologia I,0,4,10h00/13h30,-,10h00/13h30,-,-
+Mecânica Geral,"Fenômenos Mecânicos, Geometria Analítica",1,4,-,15h30,-,15h30,-
+Desenho Técnico Básico,-,0,4,15h30,-,-,-,-
+Cálculo Numérico,-,0,4,08h00/10h00,-,08h00/10h00,-,-
+Circuitos Elétricos II,"Fenômenos Eletromagnéticos, Circuitos Elétricos I",3,5,-,15h30,-,15h30,-
+Circuitos Digitais,-,1,5,-,10h00/13h30/15h30,-,10h00/13h30/15h30,-
+Fenômenos Eletromagnéticos Experimental,-,0,5,-,08h00/10h00,-,-,-
+Laboratório de Circuitos Elétricos,"Fenômenos Eletromagnéticos, Circuitos Elétricos I",0,5,-,15h30,-,-,-
+Probabilidade e Estatística,Cálculo em Uma Variável,0,5,08h00/10h00,-,08h00/10h00,-,-
+Análise de Sinais,Séries e Equações Diferenciais Ordinárias,2,5,15h30,-,15h30,-,-
+Processamento de Sinais,"Algoritmos em Bioinformática, Análise de Sinais",0,6,-,-,-,-,15h30
+Laboratório de Eletrônica Digital,Circuitos Digitais,0,6,-,-,08h00/10h00,-,-
+Introdução à Eletrotécnica,Circuitos Elétricos II,0,6,-,-,13h30,-,-
+Controle de Sistemas Dinâmicos,"Análise de Sinais, Circuitos Elétricos II",0,6,-,15h30,-,15h30,-
+Sistemas Mecânicos,Mecânica Geral,0,6,-,13h30,-,13h30,-
+Eletrônica,Circuitos Elétricos II,0,6,15h30,-,15h30,-,-

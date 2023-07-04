@@ -1,0 +1,41 @@
+Engenharia de Software,Pré-Requisitos,Dependentes,Termo,Segunda,Terça,Quarta,Quinta,Sexta
+Cálculo em Uma Variável,-,5,1,-,15h30,-,15h30,15h30
+Ciência Tecnologia e Sociedade,-,0,1,15h30,-,15h30,-,-
+Lógica de Programação,-,8,1,-,-,13h30,-,13h30
+Química Geral,-,0,1,,-,-,"13h30, 15h30",-
+Fundamentos da Biologia Moderna,-,0,1,-,15h30,-,15h30,-
+Fenômenos Mecânicos,-,1,2,-,08h00/10h00,-,08h00/10h00,-
+CIência Tecnologia Sociedade e Ambiente,-,0,2,-,-,10h00/15h30,-,08h00/10h00
+Desenho Técnico Básico,-,0,2,15h30,-,-,-,-
+Séries e Equações Diferenciais Ordinárias,Cálculo em Uma Variável,2,2,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Matemática Discreta,-,3,2,13h30/15h30,-,13h30/15h30,-,-
+Algoritmos e Estruturas de Dados I,Lógica de Programação,5,2,-,13h30,-,13h30,-
+Geometria Analítica,-,3,2,10h00/13h30/15h30,-,10h00/13h30/15h30,-,-
+Probabilidade e Estatística,Cálculo em Uma Variável,0,3,08h00/10h00,-,08h00/10h00,-,-
+Álgebra Linear,Geometria Analítica,0,3,-,08h00/10h00/13h30/15h30,-,08h00/10h00/13h30/15h30,-
+Algoritmos e Estruturas de Dados II,Algoritmos e Estruturas de Dados I,1,3,13h30,-,13h30,-,-
+Circuitos Digitais ,-,4,3,-,10h00/13h30/15h30,-,10h00/13h30/15h30,-
+Cálculo em Várias Variáveis,-,0,3,13h30/15h30,-,13h30/15h30,-,-
+Fenômenos do Contínuo,-,0,3,-,08h00/10h00,-,08h00/10h00,-
+Circuitos Elétricos I,-,3,4,13h30/15h30,-,13h30/15h30,-,-
+Fenômenos Eletromagnéticos,-,3,4,-,08h00/10h00/15h30,-,08h00/10h00/15h30,-
+Projetos e Análise de Algoritmos,"Algoritmos e Estruturas de Dados II, Matemática Discreta",0,4,-,15h30,-,15h30,-
+Programação Orientada à Objetos,Algoritmos e Estruturas de Dados I,1,4,13h30,-,13h30,-,-
+Arquitetura e Organização de Computadores,Circuitos Digitais,2,4,-,13h30,-,13h30,"10h00,12h00"
+" Laboratório de Sistemas Computacionais: Circuitos Digitais
+",Circuitos Digitais,2,4,-,-,15h30,-,15h30
+Circuitos Elétricos II,"Circuitos Elétricos I, Fenômenos Eletromagnéticos",1,5,-,15h30,-,15h30,-
+Linguagens Formais e Autômatos,"Lógica de Programação, Matemática Discreta",1,5,-,15h30,-,15h30,-
+Fenômenos Eletromagnéticos Experimental,-,0,5,-,08h00/10h00,-,08h00/10h00,-
+Laboratório de Circuitos Elétricos,"Circuitos Elétricos I, Fenômenos Eletromagnéticos",0,5,-,15h30,-,15h30,-
+Análise de Sinais,Séries e Equações Diferenciais Ordinárias,1,5,15h30,-,15h30,-,-
+" Laboratório de Sistemas Computacionais: Arquitetura e
+Organização de Computadores","Arquitetura e Organização de Computadores,  Laboratório de Sistemas Computacionais: Circuitos Digitais
+",1,5,-,-,15h30,-,15h30
+Banco de Dados,Algoritmos e Estruturas de Dados I,0,6,-,13h30,-,13h30,-
+Controle de Sistemas Dinâmicos,"Análise de Sinais, Circuitos Elétricos II",0,6,-,15h30,-,15h30,-
+Compiladores,Linguagens Formais e Autômatos,0,6,13h30,-,13h30,-,-
+Engenharia de Software,Programação Orientada à Objetos,0,6,15h30,-,15h30,-,15h30
+Mecânica Geral,"Fenômenos Mecânicos, Geometria Analítica",0,6,-,15h30,-,15h30,-
+Laboratório de Sistemas Computacionais: Engenharia de Sistemas," Laboratório de Sistemas Computacionais: Arquitetura e
+Organização de Computadores",0,6,-,-,15h30,-,-
