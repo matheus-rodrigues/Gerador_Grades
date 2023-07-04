@@ -1,1 +1,2 @@
-# Gerador_Grades
+<h1 align="center">Gerador de Grades Horárias utilizando IA</h1>
+Esse projeto trata-se do trabalho final produzido na disciplina de Inteligência Artificial da Universidade Federal de São Paulo, campus Sâo José dos Campos, 1° semestre 2023. Trata-se de uma abordagem de satisfação de restrição para a modelagem de um conjunto de disciplinas que compõem a grade de um aluno de um semestre na faculdade. Juntamente com regras de associação de grades anteriores, o modelo também disponibiliza informações acerca da grade montada. 
